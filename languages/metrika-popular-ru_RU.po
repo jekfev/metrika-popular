@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metrika Popular 0.1.0\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Enter the counter number and token."
+msgstr "Укажите номер счётчика и токен."
+
+msgid "Most read"
+msgstr "Самые читаемые"
+
+msgid "Most read (Metrika)"
+msgstr "Самые читаемые (Метрика)"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "How many"
+msgstr "Сколько"
+
+msgid "Scope"
+msgstr "Где искать"
+
+msgid "Category of the current post (elsewhere: whole site)"
+msgstr "В рубрике статьи (на сайте — везде)"
+
+msgid "Whole site"
+msgstr "По всему сайту"
+
+msgid "With thumbnails"
+msgstr "С миниатюрами"
+
+msgid "Refresh done."
+msgstr "Обновление выполнено."
+
+msgid "Metrika counter ID"
+msgstr "Номер счётчика Метрики"
+
+msgid "OAuth token"
+msgstr "OAuth-токен"
+
+msgid "Needs the metrika:read permission. Leave empty to keep the saved token."
+msgstr "Нужно право metrika:read. Оставьте пустым, чтобы не менять сохранённый токен."
+
+msgid "Period, days"
+msgstr "Период, дней"
+
+msgid "Pages from Metrika"
+msgstr "Адресов из Метрики"
+
+msgid "The more categories and the less they are read, the more you need so every category gets enough popular posts."
+msgstr "Чем больше рубрик и чем «реже» их читают, тем больше нужно, чтобы в каждой набралось популярное."
+
+msgid "Post types"
+msgstr "Типы записей"
+
+msgid "View-count meta field (fallback)"
+msgstr "Мета-поле просмотров (запасное)"
+
+msgid "If Metrika data does not fill the list, add posts with the highest value of this field, then the newest."
+msgstr "Если данных Метрики на весь список не хватило, добавить записи с наибольшим значением этого поля, затем самые свежие."
+
+msgid "Styles"
+msgstr "Стили"
+
+msgid "Load minimal styles"
+msgstr "Подключать минимальные стили"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Last refresh:"
+msgstr "Последнее обновление:"
+
+msgid "posts in the list:"
+msgstr "записей в списке:"
+
+msgid "No data yet."
+msgstr "Данных пока нет."
+
+msgid "Error:"
+msgstr "Ошибка:"
+
+msgid "Refresh now"
+msgstr "Обновить сейчас"
+
